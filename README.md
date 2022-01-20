@@ -3,9 +3,15 @@ Ubuntu Server installation comes with some software, that is unnecessary, or str
 
 ## Usage
 Simply clone the repo whereever you want
+
 `git clone https://github.com/ApplePie420/Ubuntu-server-declutter.git` 
+
 make the script executable
+
 `sudo chmod +x declutter.sh`
+
 and run the script (you need sudo privileges)
+
 `sudo ./declutter.sh`
+
 It will give you colored output of what is currently happening. If you are curious, you can look at what is actually being uninstalled (everything is commented).
